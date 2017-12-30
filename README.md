@@ -1,3 +1,3 @@
 # hello-world
 Hello GitHub!
-I am advancing my coding skills to apply towards work with digital assessments for education platforms.
+I am starting a new adventure beyond basic HTML and CSS.
